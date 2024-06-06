@@ -1,1 +1,1 @@
-FROM gcr.io/paketo-buildpacks/bellsoft-liberica:9.9.0-ea
+FROM jenkins/jenkins:2.461-jdk21
